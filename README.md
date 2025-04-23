@@ -1,13 +1,12 @@
+
 # Spring AI Chat Bot with Streaming Support
 
 Welcome to the Spring AI Chat Bot project! This application demonstrates how to create a chatbot with streaming capabilities using Spring AI and Spring Boot. By leveraging the power of Spring AI, we've built a robust and scalable solution for real-time AI-powered conversations.
 
-
-
 ## Project Overview
 
 This project showcases the integration of Spring AI with Spring Boot to create a chatbot that supports both traditional request-response interactions and streaming responses. It's an excellent starting point for developers looking to implement AI-powered chat functionality in their Spring applications.
-
+![Thinksy](https://github.com/user-attachments/assets/7904b1be-28c6-4cbe-b7eb-c8fc55d662da)
 ## Project Requirements
 
 - Java 21
